@@ -4,6 +4,8 @@ set -x
 
 ls -a
 
+git checkout -b new_branch
+
 git clone https://github.com/oneapi-src/oneDNN.git --branch dev-graph --recursive
 cd oneDNN
 mkdir build
@@ -78,6 +80,16 @@ echo "finished document build"
 
 ls -a
 
+git add latest
+git add alpha
+git add preview4
+git add preview3
+git add preview2
 
+git config user.name "Lv, Tao A"
+git config user.email "tao.a.lv@intel.com"
+
+git commit -m "deploy document"
+git push origin new_branch
 
 
