@@ -4,9 +4,9 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow to run every day of the week from Monday to Friday at 2:00 UTC
+  # Triggers the workflow to run every Sunday at 2:00 UTC
   schedule:
-  - cron: "0 2 * * 1-5"
+  - cron: "0 2 * * 0"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
