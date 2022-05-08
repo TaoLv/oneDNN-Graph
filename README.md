@@ -8,3 +8,4 @@ Please check oneDNN Graph documentation website:
 - preview3 (v0.3): [https://taolv.github.io/oneDNN-Graph/preview3/index.html](https://taolv.github.io/oneDNN-Graph/preview3/index.html)
 - preview2 (v0.2): [https://taolv.github.io/oneDNN-Graph/preview2/index.html](https://taolv.github.io/oneDNN-Graph/preview2/index.html)
 
+The library source code can be found at: [https://github.com/oneapi-src/oneDNN/tree/dev-graph](https://github.com/oneapi-src/oneDNN/tree/dev-graph).
