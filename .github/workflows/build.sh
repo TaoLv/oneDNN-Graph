@@ -20,6 +20,20 @@ rm -rf ./latest
 mkdir latest
 cp -r ./oneDNN/build/reference/html/* ./latest/
 
+# build beta-2
+cd oneDNN
+git checkout origin/dev-graph-beta-2
+git submodule update --recursive
+cd build
+rm -rf ./*
+cmake ..
+make doc
+cd ../..
+
+rm -rf ./beta-2
+mkdir beta-2
+cp -r ./oneDNN/build/reference/html/* ./beta-2/
+
 # build alpha
 cd oneDNN
 git checkout origin/dev-graph-alpha
