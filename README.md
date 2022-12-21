@@ -6,6 +6,11 @@
 > pre-production stage and may not reflect what we will have in oneDNN
 > production releases.
 
+> Note: oneDNN Graph API has been released in [oneDNN
+> v3.0](https://github.com/oneapi-src/oneDNN/releases/tag/v3.0). The
+> corresponding documentation can be found at
+> <https://oneapi-src.github.io/oneDNN/>.
+
 Please check oneDNN Graph documentation website:
 
 - dev-graph (latest): [https://taolv.github.io/oneDNN-Graph/latest/index.html](https://taolv.github.io/oneDNN-Graph/latest/index.html)
