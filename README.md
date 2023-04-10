@@ -11,6 +11,10 @@
 > corresponding documentation can be found at
 > <https://oneapi-src.github.io/oneDNN/>.
 
+> Note: oneDNN Graph API has been release in [oneDNN
+> v3.1](https://github.com/oneapi-src/oneDNN/releases/tag/v3.1) as a production
+> feature. `ONEDNN_BUILD_GRAPH` is turned ON by default now.
+
 Please check oneDNN Graph documentation website:
 
 - dev-graph (latest): [https://taolv.github.io/oneDNN-Graph/latest/index.html](https://taolv.github.io/oneDNN-Graph/latest/index.html)
