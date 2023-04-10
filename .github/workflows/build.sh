@@ -124,6 +124,9 @@ ls -a
 
 # publish the document
 git add latest
+git add beta-4
+git add beta-3
+git add beta-2
 git add alpha
 git add preview4
 git add preview3
