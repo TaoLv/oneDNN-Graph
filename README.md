@@ -14,6 +14,8 @@
 Please check oneDNN Graph documentation website:
 
 - dev-graph (latest): [https://taolv.github.io/oneDNN-Graph/latest/index.html](https://taolv.github.io/oneDNN-Graph/latest/index.html)
+- beta-4 (v0.9): [https://taolv.github.io/oneDNN-Graph/beta-4/index.html](https://taolv.github.io/oneDNN-Graph/beta-4/index.html)
+- beta-3 (v0.8): [https://taolv.github.io/oneDNN-Graph/beta-3/index.html](https://taolv.github.io/oneDNN-Graph/beta-3/index.html)
 - beta-2 (v0.7): [https://taolv.github.io/oneDNN-Graph/beta-2/index.html](https://taolv.github.io/oneDNN-Graph/beta-2/index.html)
 - alpha (v0.5): [https://taolv.github.io/oneDNN-Graph/alpha/index.html](https://taolv.github.io/oneDNN-Graph/alpha/index.html)
 - preview4 (v0.4): [https://taolv.github.io/oneDNN-Graph/preview4/index.html](https://taolv.github.io/oneDNN-Graph/preview4/index.html)
