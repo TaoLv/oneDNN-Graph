@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['major_416',['major',['../structdnnl__graph__version__t.html#a408807eed593ec13694830f4f1ad60f2',1,'dnnl_graph_version_t']]],
+  ['make_5fallocator_417',['make_allocator',['../namespacednnl_1_1graph_1_1sycl__interop.html#afbfd5202a21eebb29d010f14bcbbbb13',1,'dnnl::graph::sycl_interop']]],
+  ['make_5fengine_418',['make_engine',['../namespacednnl_1_1graph_1_1sycl__interop.html#a59ca5b4b8541e8502ccf3898feaca8e3',1,'dnnl::graph::sycl_interop::make_engine(const sycl::device &amp;adevice, const sycl::context &amp;acontext, const allocator &amp;alloc)'],['../namespacednnl_1_1graph_1_1sycl__interop.html#af21f3a6fd17f3501a0df6b1f86dc619e',1,'dnnl::graph::sycl_interop::make_engine(const sycl::device &amp;adevice, const sycl::context &amp;acontext)']]],
+  ['make_5fstream_419',['make_stream',['../namespacednnl_1_1graph_1_1threadpool__interop.html#ad830cf1ac6c5d499f8981ae1c3754cf1',1,'dnnl::graph::threadpool_interop::make_stream()'],['../namespacednnl_1_1graph_1_1sycl__interop.html#a6849974a0d729c3d6efef3e435258714',1,'dnnl::graph::sycl_interop::make_stream()']]],
+  ['matmul_420',['MatMul',['../dev_guide_op_matmul.html',1,'']]],
+  ['matmul_5fpost_5fops_421',['matmul_post_ops',['../classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a22b507aebb787350537729dc01d1c06a',1,'dnnl::graph::partition']]],
+  ['max_422',['max',['../classdnnl_1_1graph_1_1partition.html#a439c0490ea8ea85f2a12ec7b320a9a3ca2ffe4e77325d9a7152f7086ea7aa5114',1,'dnnl::graph::partition::max()'],['../classdnnl_1_1graph_1_1op.html#ac7650c0c15849338f9c558f53ce82684a2ffe4e77325d9a7152f7086ea7aa5114',1,'dnnl::graph::op::max()']]],
+  ['maximum_423',['Maximum',['../dev_guide_op_maximum.html',1,'']]],
+  ['maxpool_424',['MaxPool',['../dev_guide_op_maxpool.html',1,'']]],
+  ['maxpoolbackprop_425',['MaxPoolBackprop',['../dev_guide_op_maxpoolbackprop.html',1,'']]],
+  ['mha_426',['mha',['../classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314adac8c9e6ec0efe64569e77030a62afdc',1,'dnnl::graph::partition']]],
+  ['min_427',['min',['../classdnnl_1_1graph_1_1op.html#ac7650c0c15849338f9c558f53ce82684ad8bd79cc131920d5de426f914d17405a',1,'dnnl::graph::op']]],
+  ['minimum_428',['Minimum',['../dev_guide_op_minimum.html',1,'']]],
+  ['minor_429',['minor',['../structdnnl__graph__version__t.html#aef6ddfc2aa00f0979f6f8443c59ecabe',1,'dnnl_graph_version_t']]],
+  ['misc_5fpost_5fops_430',['misc_post_ops',['../classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a0fbe43e052ee9e94bfb3e09db238a512',1,'dnnl::graph::partition']]],
+  ['misc_5fquantized_5fpost_5fops_431',['misc_quantized_post_ops',['../classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a22a18732aa1d43222cbf3ebb6b7ec8d9',1,'dnnl::graph::partition']]],
+  ['mish_432',['Mish',['../dev_guide_op_mish.html',1,'']]],
+  ['mishbackprop_433',['MishBackprop',['../dev_guide_op_mishbackprop.html',1,'']]],
+  ['mlp_434',['mlp',['../classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a6a20507c5f69d5b8867fca69fe848540',1,'dnnl::graph::partition']]],
+  ['mode_435',['mode',['../classdnnl_1_1graph_1_1op.html#ac7650c0c15849338f9c558f53ce82684a15d61712450a686a7f365adf4fef581f',1,'dnnl::graph::op']]],
+  ['momentum_436',['momentum',['../classdnnl_1_1graph_1_1op.html#ac7650c0c15849338f9c558f53ce82684a3a749f8e94241d303c81e056e18621d4',1,'dnnl::graph::op']]],
+  ['multiply_437',['Multiply',['../dev_guide_op_multiply.html',1,'']]]
+];

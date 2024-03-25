@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['get_5fcompiled_5fpartition_5fcache_5fcapacity_403',['get_compiled_partition_cache_capacity',['../group__dnnl__graph__api__compiled__partition__cache.html#ga6a1bba962b6499e55ba1fb81692d04b7',1,'dnnl::graph']]],
+  ['get_5fconstant_5fcache_404',['get_constant_cache',['../group__dnnl__graph__constant__cache.html#gabd0b03471d4c6dd6cc12ed17f6e6b282',1,'dnnl::graph']]],
+  ['get_5fdata_5fhandle_405',['get_data_handle',['../classdnnl_1_1graph_1_1tensor.html#a701b5fb9a6ec68fc00a826ab6a5d87db',1,'dnnl::graph::tensor']]],
+  ['get_5fdata_5ftype_406',['get_data_type',['../classdnnl_1_1graph_1_1logical__tensor.html#aaea19b3ce4512e5f2e1d0c68d9f0677f',1,'dnnl::graph::logical_tensor']]],
+  ['get_5fdevice_5fhandle_407',['get_device_handle',['../classdnnl_1_1graph_1_1engine.html#a9774565193c70104b45b7d6ee694ed12',1,'dnnl::graph::engine']]],
+  ['get_5fdevice_5fid_408',['get_device_id',['../classdnnl_1_1graph_1_1engine.html#ab700c5b9a252cd78014eecb57a4e0e3d',1,'dnnl::graph::engine']]],
+  ['get_5fdims_409',['get_dims',['../classdnnl_1_1graph_1_1logical__tensor.html#a925058b843b57b8ba8dc9785a38b932b',1,'dnnl::graph::logical_tensor']]],
+  ['get_5felement_5fnum_410',['get_element_num',['../classdnnl_1_1graph_1_1tensor.html#aba2680ce08d95a81dbd1d2859a43dee3',1,'dnnl::graph::tensor']]],
+  ['get_5fengine_411',['get_engine',['../classdnnl_1_1graph_1_1tensor.html#a588455c7eed8230723445b9dba997fb5',1,'dnnl::graph::tensor']]],
+  ['get_5fengine_5fkind_412',['get_engine_kind',['../classdnnl_1_1graph_1_1partition.html#a606818ef956ac2956bbc74543a142abb',1,'dnnl::graph::partition']]],
+  ['get_5fid_413',['get_id',['../classdnnl_1_1graph_1_1partition.html#a46aec3b49987b57ff4cce53a4fccaadd',1,'dnnl::graph::partition::get_id()'],['../classdnnl_1_1graph_1_1logical__tensor.html#a29439e81366ba8db75180dc8c975d1ca',1,'dnnl::graph::logical_tensor::get_id()']]],
+  ['get_5fin_5fports_414',['get_in_ports',['../classdnnl_1_1graph_1_1partition.html#ac79139d8b8cd5c70e3a1a8444fa64e7a',1,'dnnl::graph::partition']]],
+  ['get_5finplace_5fports_415',['get_inplace_ports',['../classdnnl_1_1graph_1_1compiled__partition.html#ab80ec9f6a37ddbf7b2636fb35acf74f2',1,'dnnl::graph::compiled_partition']]],
+  ['get_5fkind_416',['get_kind',['../classdnnl_1_1graph_1_1engine.html#a5e793e1abf748a0508831161f913713d',1,'dnnl::graph::engine']]],
+  ['get_5flayout_5fid_417',['get_layout_id',['../classdnnl_1_1graph_1_1logical__tensor.html#ab89484366b6e253cc0326e54622b5dfa',1,'dnnl::graph::logical_tensor']]],
+  ['get_5flayout_5ftype_418',['get_layout_type',['../classdnnl_1_1graph_1_1logical__tensor.html#adf186c42eb7e4718f4985845a1101ac5',1,'dnnl::graph::logical_tensor']]],
+  ['get_5fmem_5fsize_419',['get_mem_size',['../classdnnl_1_1graph_1_1logical__tensor.html#a12b73d1201259d4260de5603f62c7f15',1,'dnnl::graph::logical_tensor']]],
+  ['get_5fops_420',['get_ops',['../classdnnl_1_1graph_1_1partition.html#a51905246cf32250003073e47eb2a620a',1,'dnnl::graph::partition']]],
+  ['get_5fops_5fnum_421',['get_ops_num',['../classdnnl_1_1graph_1_1partition.html#ac86965ac32334fa986d0c05344617668',1,'dnnl::graph::partition']]],
+  ['get_5fout_5fports_422',['get_out_ports',['../classdnnl_1_1graph_1_1partition.html#a0f7820908672c69ce9683ab071af952d',1,'dnnl::graph::partition']]],
+  ['get_5fpartitions_423',['get_partitions',['../classdnnl_1_1graph_1_1graph.html#a8f549cae111ab22b6c656e7c66a35b03',1,'dnnl::graph::graph']]],
+  ['get_5fproperty_5ftype_424',['get_property_type',['../classdnnl_1_1graph_1_1logical__tensor.html#a4171d99da0693368639e35d0745f3001',1,'dnnl::graph::logical_tensor']]],
+  ['get_5fstrides_425',['get_strides',['../classdnnl_1_1graph_1_1logical__tensor.html#a9be917e282595dcb6b63ef5c7e695cdb',1,'dnnl::graph::logical_tensor']]],
+  ['graph_426',['graph',['../classdnnl_1_1graph_1_1graph.html#ab9989b31612c971d723b21bce61f3812',1,'dnnl::graph::graph']]]
+];

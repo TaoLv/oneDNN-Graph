@@ -1,0 +1,46 @@
+var classdnnl_1_1graph_1_1partition =
+[
+    [ "policy", "classdnnl_1_1graph_1_1partition.html#a439c0490ea8ea85f2a12ec7b320a9a3c", [
+      [ "max", "classdnnl_1_1graph_1_1partition.html#a439c0490ea8ea85f2a12ec7b320a9a3ca2ffe4e77325d9a7152f7086ea7aa5114", null ],
+      [ "fusion", "classdnnl_1_1graph_1_1partition.html#a439c0490ea8ea85f2a12ec7b320a9a3ca051de32597041e41f73b97d61c67a13b", null ],
+      [ "debug", "classdnnl_1_1graph_1_1partition.html#a439c0490ea8ea85f2a12ec7b320a9a3caad42f6697b035b7580e4fef93be20b4d", null ]
+    ] ],
+    [ "kind", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314", [
+      [ "undef", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314af31ee5e3824f1f5e5d206bdf3029f22b", null ],
+      [ "convolution_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a6c0f76ff2c7e6febf3996e1878e000ff", null ],
+      [ "convtranspose_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314ac67dd5f5fcecdcd1810df45971b8fc76", null ],
+      [ "interpolate_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314abccf7183acf87532934a061c4e8296c5", null ],
+      [ "matmul_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a22b507aebb787350537729dc01d1c06a", null ],
+      [ "reduction_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314ae7054567267914bb81439c9547745dfb", null ],
+      [ "unary_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a1798f11d6ba7ccf6051aa14cc739b249", null ],
+      [ "binary_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a086df73f70eace9dac91211dab09989c", null ],
+      [ "pooling_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a02068b56656269313f42d3e07034c497", null ],
+      [ "batch_norm_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a68d6942756187dea039e6262ef1fc6d3", null ],
+      [ "misc_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a0fbe43e052ee9e94bfb3e09db238a512", null ],
+      [ "quantized_convolution_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a640de6110cd644909318df17174ec928", null ],
+      [ "quantized_convtranspose_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a86f1efc2668acfd01d73f4350abce5b1", null ],
+      [ "quantized_matmul_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a674e85bd40c6642f177d86336cec0a07", null ],
+      [ "quantized_unary_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314aa551b07a1dd851cf38fcf945a82e679b", null ],
+      [ "quantized_pooling_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314ace3f47bb0abc695711aeab6d352ae296", null ],
+      [ "misc_quantized_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a22a18732aa1d43222cbf3ebb6b7ec8d9", null ],
+      [ "convolution_backprop_post_ops", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314ad403636897ae51ef859ec8dd44dd786d", null ],
+      [ "mha", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314adac8c9e6ec0efe64569e77030a62afdc", null ],
+      [ "mlp", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a6a20507c5f69d5b8867fca69fe848540", null ],
+      [ "quantized_mha", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a6c66ec7307768edb2e914a14f6072469", null ],
+      [ "quantized_mlp", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a9ef47e53fcf11c8daad6d1042cb11330", null ],
+      [ "residual_conv_blocks", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314a3e8753f91fe7f13f72b7f3eebc1a85ef", null ],
+      [ "quantized_residual_conv_blocks", "classdnnl_1_1graph_1_1partition.html#a8b07bd28de793b8b41b39d06a566d314aaac60bbe2319d0043086d43fdc84dba9", null ]
+    ] ],
+    [ "partition", "classdnnl_1_1graph_1_1partition.html#af74b276d676057a5faa482aaf368014b", null ],
+    [ "partition", "classdnnl_1_1graph_1_1partition.html#ab688d46f8567fa69c1bebb5e351f0968", null ],
+    [ "partition", "classdnnl_1_1graph_1_1partition.html#a617cb01f02a4f7fa459fb346f552cde9", null ],
+    [ "get_ops_num", "classdnnl_1_1graph_1_1partition.html#ac86965ac32334fa986d0c05344617668", null ],
+    [ "get_ops", "classdnnl_1_1graph_1_1partition.html#a53eceebd7c703a14920400e330b0aa1d", null ],
+    [ "get_id", "classdnnl_1_1graph_1_1partition.html#a46aec3b49987b57ff4cce53a4fccaadd", null ],
+    [ "compile", "classdnnl_1_1graph_1_1partition.html#a8a661ae3ff35ed2440c0a53ecb128787", null ],
+    [ "is_supported", "classdnnl_1_1graph_1_1partition.html#ad80536833d69e2660c496adbd9ec0aa3", null ],
+    [ "get_in_ports", "classdnnl_1_1graph_1_1partition.html#ac79139d8b8cd5c70e3a1a8444fa64e7a", null ],
+    [ "get_out_ports", "classdnnl_1_1graph_1_1partition.html#a0f7820908672c69ce9683ab071af952d", null ],
+    [ "get_engine_kind", "classdnnl_1_1graph_1_1partition.html#a606818ef956ac2956bbc74543a142abb", null ],
+    [ "get_kind", "classdnnl_1_1graph_1_1partition.html#aed99ef8c560e2f946f7e731854f55034", null ]
+];
